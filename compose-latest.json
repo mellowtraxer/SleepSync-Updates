@@ -1,6 +1,8 @@
 {
-  "versionCode": 1263,
-  "versionName": "0.1.0-compose.1263",
-  "commit": "e4af5ee42bf186f350d1249867303cd74aef8bd8",
-  "apk": "https://github.com/mellowtraxer/SleepSync-Updates/raw/main/SleepSync-Compose-1263.apk"
+  "versionCode": 1265,
+  "versionName": "0.1.0-compose.1265",
+  "commit": "f2156253bbe698e8c1de603a3c31243c5c245152",
+  "sha256": "78e42e7c63d1fbfc500bdaca8f531e37c44a606262a13d8e7b182ede0c005e24",
+  "size": 73691721,
+  "apk": "https://github.com/mellowtraxer/SleepSync-Updates/raw/main/SleepSync-Compose-1265.apk"
 }
