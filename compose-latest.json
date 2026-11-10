@@ -4,5 +4,6 @@
   "commit": "f1cd9f5a8d63a42592c43ad269c9445abe99e571",
   "sha256": "225b5ba259637f3f5573c806ed97537d20178ffb82ff3b26a2657f6cec5a5271",
   "size": 73708105,
-  "apk": "https://github.com/mellowtraxer/SleepSync-Updates/raw/main/SleepSync-Compose-1266.apk"
+  "apk": "https://github.com/mellowtraxer/SleepSync-Updates/raw/main/SleepSync-Compose-1266.apk",
+  "notes": "SleepSync sucht beim App-Start und bei der Rückkehr in die App nach Preview-Updates. Der Updater prüft APK-Größe, SHA-256, Paketkennung, Buildnummer und Signatur, bevor Android die Installation anbietet."
 }
