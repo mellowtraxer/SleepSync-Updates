@@ -1,9 +1,8 @@
 {
-  "versionCode": 1266,
-  "versionName": "0.1.0-compose.1266",
-  "commit": "f1cd9f5a8d63a42592c43ad269c9445abe99e571",
-  "sha256": "225b5ba259637f3f5573c806ed97537d20178ffb82ff3b26a2657f6cec5a5271",
-  "size": 73708105,
-  "apk": "https://github.com/mellowtraxer/SleepSync-Updates/raw/main/SleepSync-Compose-1266.apk",
-  "notes": "SleepSync sucht beim App-Start und bei der Rückkehr in die App nach Preview-Updates. Der Updater prüft APK-Größe, SHA-256, Paketkennung, Buildnummer und Signatur, bevor Android die Installation anbietet."
+  "versionCode": 1268,
+  "versionName": "0.1.0-compose.1268",
+  "commit": "72da6d736cc2e3150d17f5158d23362827bdd2a8",
+  "sha256": "e07d10904acf8f61e15e3d83b8c6cb9cc27489c09835a71054601a77f4bfd31c",
+  "size": 73793958,
+  "apk": "https://github.com/mellowtraxer/SleepSync-Updates/raw/main/SleepSync-Compose-1268.apk"
 }
